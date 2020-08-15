@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_base_bottom_navigator/repository/app_service.dart';
-import 'package:flutter_base_bottom_navigator/widget/geral/progress_indicator_widget.dart';
+import '../../repository/app_service.dart';
+import '../../widget/geral/progress_indicator_widget.dart';
 
 bool _isAlertOpen = false;
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_base_bottom_navigator/screen/principal_screen.dart';
-import 'package:flutter_base_bottom_navigator/screen/sobre_screen.dart';
-import 'package:flutter_base_bottom_navigator/widget/geral/bottom_navigator_widget.dart';
+import '../screen/principal_screen.dart';
+import '../screen/sobre_screen.dart';
+import '../widget/geral/bottom_navigator_widget.dart';
 import '../bloc/application_bloc.dart';
 import 'package:provider/provider.dart';
 
